@@ -39,6 +39,7 @@ Obfuscator
 
 Post exploitation
 
+* [homjxi0e/PowerAvails - PowerAvails Powershell .NET System Operating](https://github.com/homjxi0e/PowerAvails)
 * [peewpw/Invoke-WCMDump - PowerShell Script to Dump Windows Credentials from the Credential Manager](https://github.com/peewpw/Invoke-WCMDump)
 * [xorrior/RandomPS-Scripts - PowerShell Scripts focused on Post-Exploitation Capabilities](https://github.com/xorrior/RandomPS-Scripts)
 * [Cn33liz/p0wnedShell - PowerShell Runspace Post Exploitation Toolkit](https://github.com/Cn33liz/p0wnedShell)

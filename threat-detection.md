@@ -40,6 +40,10 @@ Automated analysis
   * Useful posts
     * [Knowledge Fragment: Hardening Win7 x64 on VirtualBox for Malware Analysis](https://byte-atlas.blogspot.com/2017/02/hardening-vbox-win7x64.html)
     
+Event Tracing for Windows (ETW)
+
+* [chentiangemalc/EtlToCap - Convert ETL to PCAP](https://github.com/chentiangemalc/EtlToCap)
+  * [chentiangemalc/PowerShellScripts - ConvertEtl-ToPcap.ps1](https://github.com/chentiangemalc/PowerShellScripts/blob/master/ConvertEtl-ToPcap.ps1)
 
 Cryptomining
 
