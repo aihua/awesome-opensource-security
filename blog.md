@@ -94,6 +94,7 @@ Hardware security
 
 Reverse engineering
 
+* [https://reverse.put.as/post/](https://reverse.put.as/post/)
 * [https://lightbulbone.com/](https://lightbulbone.com/)
 * [http://0xeb.net/](http://0xeb.net/)
 * [https://int0xcc.svbtle.com/](https://int0xcc.svbtle.com/)
