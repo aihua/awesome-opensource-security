@@ -176,6 +176,7 @@ Forums
 
 Uncategorized
 
+* [https://blog.didierstevens.com/](https://blog.didierstevens.com/)
 * [https://laconicwolf.com/](https://laconicwolf.com/)
 * [https://www.darknet.org.uk/](https://www.darknet.org.uk/)
 * [https://teamultimate.in](https://teamultimate.in/)

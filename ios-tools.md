@@ -22,6 +22,7 @@ Jailbreak
 * [coolstar/electra1131 - Electra for iOS 11.0 - 11.3.1](https://github.com/coolstar/electra1131)
 * [PsychoTea/MeridianJB - An iOS 10.x Jailbreak for all 64-bit devices](https://github.com/PsychoTea/MeridianJB)
 * [bazad/blanket - a sandbox escape targeting iOS 11.2.6, although the main vulnerability was only patched in iOS 11.4.1](https://github.com/bazad/blanket)
+* [pwn20wndstuff/Undecimus - unc0ver jailbreak for iOS 11.0 - 11.4b3](https://github.com/pwn20wndstuff/Undecimus)
 
 Obfuscation
 

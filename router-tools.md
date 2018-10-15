@@ -23,6 +23,3 @@ Uncategorized
 * [Router Scan v2.60 Beta by Stas'M (build 01.01.2018)](http://stascorp.com/load/1-1-0-56)
 * [Routerpwn - One click exploits, generators, tools, news, vulnerabilities, poc, alerts](http://routerpwn.com/)
 
-## Resources
-
-* [The largest and most updated default router passwords database](http://routerpasswords.com/)

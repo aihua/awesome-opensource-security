@@ -10,7 +10,6 @@ A collection of open source hardware tools
 
 Unpacking
 
-* [ReFirmLabs/binwalk - Firmware Analysis Tool](https://github.com/ReFirmLabs/binwalk)
 * [attify/firmware-analysis-toolkit - Toolkit to emulate firmware and analyse it for security vulnerabilities](https://github.com/attify/firmware-analysis-toolkit)
 
 HID 

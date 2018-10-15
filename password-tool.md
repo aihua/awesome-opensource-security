@@ -7,9 +7,11 @@ A collection of password tools
 Dictionary files
 
 * [fuzzdb-project/fuzzdb - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery](https://github.com/fuzzdb-project/fuzzdb)
-* [OWASP/OpenDoor](https://github.com/stanislav-web/OpenDoor/tree/master/data)
+* [OWASP/OpenDoor - OWASP WEB Directory Scanner (data files)](https://github.com/stanislav-web/OpenDoor/tree/master/data)
 * [droope/pwlist - Password lists obtained from strangers attempting to log in to my server](https://github.com/droope/pwlist)
-* [govolution/betterdefaultpasslist - default credentials from various manufacturers for their products like NAS, ERP, ICS](https://github.com/govolution/betterdefaultpasslist)
+* Default passwords
+  * [govolution/betterdefaultpasslist - default credentials from various manufacturers for their products like NAS, ERP, ICS](https://github.com/govolution/betterdefaultpasslist)
+  * [The largest and most updated default router passwords database](http://routerpasswords.com/)
 
 Dictionary tools
 
@@ -29,7 +31,7 @@ Password generator
 * [NotSoSecure/password_cracking_rules - One rule to crack all passwords. or atleast we hope so](https://github.com/NotSoSecure/password_cracking_rules)
 * [localh0t/m4ngl3m3 - Common password pattern generator using strings list](https://github.com/localh0t/m4ngl3m3)
 
-Recovery
+Password recovery
 
 * [AlessandroZ/LaZagne - Credentials recovery project](https://github.com/AlessandroZ/LaZagne)
 * [twelvesec/passcat - Passwords Recovery Tool (C++)](https://github.com/twelvesec/passcat)

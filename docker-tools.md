@@ -15,3 +15,4 @@ Dockerfile collections
 Uncategorized
 
 * [P3GLEG/WhaleTail - Program to reverse Docker images into Dockerfiles](https://github.com/P3GLEG/WhaleTail)
+* [aquasecurity/kube-hunter - Hunt for security weaknesses in Kubernetes clusters](https://github.com/aquasecurity/kube-hunter)

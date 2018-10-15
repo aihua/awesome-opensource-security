@@ -68,18 +68,20 @@ Email
 
 Host based detection tools / endpoint tools
 
-* [Invoke-IR/Uproot - a Host Based Intrusion Detection System (HIDS) that leverages Permanent Windows Management Instrumentation (WMI) Event Susbcriptions to detect malicious activity on a network](https://github.com/Invoke-IR/Uproot)
 * [hasherezade/pe-sieve - Scans a given process, searching for the modules containing in-memory code modifications. When found, it dumps the modified PE](https://github.com/hasherezade/pe-sieve)
-* [hasherezade/hollows_hunter - A process scanner detecting and dumping hollowed PE modules](https://github.com/hasherezade/hollows_hunter)
-* [shellster/DCSYNCMonitor - Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events](https://github.com/shellster/DCSYNCMonitor)
+* [hasherezade/hollows_hunter - Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches)](https://github.com/hasherezade/hollows_hunter)
 * [jaredcatkinson/Get-InjectedThread.ps1 - Looks for threads that were created as a result of code injection](https://gist.github.com/jaredcatkinson/23905d34537ce4b5b1818c3e6405c1d2)
   * [Understanding and Evading Get-InjectedThread](https://blog.xpnsec.com/undersanding-and-evading-get-injectedthread/)
 * [TonyPhipps/THRecon - Collect endpoint information for use in incident response triage / threat hunting / live forensics using this toolkit](https://github.com/TonyPhipps/THRecon)
-* [ysrc/yulong-hids - 一款由 YSRC 开源的主机入侵检测系统](https://github.com/ysrc/yulong-hids)
 * [Neo23x0/Fenrir - Simple Bash IOC Scanner](https://github.com/Neo23x0/Fenrir)
 * [0x4D31/salt-scanner - Linux vulnerability scanner based on Salt Open and Vulners audit API, with Slack notifications and JIRA integration](https://github.com/0x4D31/salt-scanner)
 * [DominicBreuker/pspy - Monitor linux processes without root permissions](https://github.com/DominicBreuker/pspy)
 * [mvelazc0/Oriana - a threat hunting tool that leverages a subset of Windows events to build relationships, calculate totals and run analytics](https://github.com/mvelazc0/Oriana/)
+* HIDS
+  * [Invoke-IR/Uproot - a Host Based Intrusion Detection System (HIDS) that leverages Permanent Windows Management Instrumentation (WMI) Event Susbcriptions to detect malicious activity on a network](https://github.com/Invoke-IR/Uproot)
+  * [ysrc/yulong-hids - 一款由 YSRC 开源的主机入侵检测系统](https://github.com/ysrc/yulong-hids)
+* Active directory
+  * [shellster/DCSYNCMonitor - Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events](https://github.com/shellster/DCSYNCMonitor)
 
 Zabbix plugin
 
